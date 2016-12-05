@@ -1,0 +1,72 @@
+[16:17:11] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[16:17:11] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Неверный дескриптор
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:101) [ld$2.class:?]
+[16:19:21] [Server thread/INFO]: Loading properties
+[16:19:25] [Server thread/INFO]: Default game type: SURVIVAL
+[16:19:25] [Server thread/INFO]: Generating keypair
+[16:19:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:19:25] [Server thread/INFO]: Using default channel type
+[16:20:11] [Server thread/INFO]: Preparing level "world"
+[16:20:23] [Server thread/INFO]: Preparing start region for level 0
+[16:20:26] [Server thread/INFO]: Preparing spawn area: 2%
+[16:20:28] [Server thread/INFO]: Preparing spawn area: 4%
+[16:20:32] [Server thread/INFO]: Preparing spawn area: 4%
+[16:20:34] [Server thread/INFO]: Preparing spawn area: 6%
+[16:20:37] [Server thread/INFO]: Preparing spawn area: 8%
+[16:20:39] [Server thread/INFO]: Preparing spawn area: 10%
+[16:20:41] [Server thread/INFO]: Preparing spawn area: 11%
+[16:20:44] [Server thread/INFO]: Preparing spawn area: 13%
+[16:20:45] [Server thread/INFO]: Preparing spawn area: 15%
+[16:20:51] [Server thread/INFO]: Preparing spawn area: 16%
+[16:20:53] [Server thread/INFO]: Preparing spawn area: 16%
+[16:20:57] [Server thread/INFO]: Preparing spawn area: 18%
+[16:20:59] [Server thread/INFO]: Preparing spawn area: 20%
+[16:21:02] [Server thread/INFO]: Preparing spawn area: 22%
+[16:21:05] [Server thread/INFO]: Preparing spawn area: 24%
+[16:21:08] [Server thread/INFO]: Preparing spawn area: 26%
+[16:21:10] [Server thread/INFO]: Preparing spawn area: 29%
+[16:21:12] [Server thread/INFO]: Preparing spawn area: 30%
+[16:21:14] [Server thread/INFO]: Preparing spawn area: 33%
+[16:21:16] [Server thread/INFO]: Preparing spawn area: 36%
+[16:21:18] [Server thread/INFO]: Preparing spawn area: 38%
+[16:21:20] [Server thread/INFO]: Preparing spawn area: 40%
+[16:21:21] [Server thread/INFO]: Preparing spawn area: 42%
+[16:21:24] [Server thread/INFO]: Preparing spawn area: 44%
+[16:21:25] [Server thread/INFO]: Preparing spawn area: 45%
+[16:21:28] [Server thread/INFO]: Preparing spawn area: 47%
+[16:21:29] [Server thread/INFO]: Preparing spawn area: 49%
+[16:21:31] [Server thread/INFO]: Preparing spawn area: 52%
+[16:21:32] [Server thread/INFO]: Preparing spawn area: 54%
+[16:21:34] [Server thread/INFO]: Preparing spawn area: 58%
+[16:21:36] [Server thread/INFO]: Preparing spawn area: 61%
+[16:21:37] [Server thread/INFO]: Preparing spawn area: 64%
+[16:21:39] [Server thread/INFO]: Preparing spawn area: 67%
+[16:21:41] [Server thread/INFO]: Preparing spawn area: 71%
+[16:21:42] [Server thread/INFO]: Preparing spawn area: 74%
+[16:21:44] [Server thread/INFO]: Preparing spawn area: 77%
+[16:21:45] [Server thread/INFO]: Preparing spawn area: 81%
+[16:21:47] [Server thread/INFO]: Preparing spawn area: 85%
+[16:21:49] [Server thread/INFO]: Preparing spawn area: 89%
+[16:21:51] [Server thread/INFO]: Preparing spawn area: 93%
+[16:21:53] [Server thread/INFO]: Preparing spawn area: 97%
+[16:21:54] [Server thread/INFO]: Done (102,492s)! For help, type "help" or "?"
+[16:22:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2823ms behind, skipping 56 tick(s)
+[16:22:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9545ms behind, skipping 190 tick(s)
+[16:22:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2617ms behind, skipping 52 tick(s)
+[16:27:34] [Server thread/INFO]: Stopping server
+[16:27:34] [Server thread/INFO]: Saving players
+[16:27:34] [Server thread/INFO]: Saving worlds
+[16:27:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:27:35] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
