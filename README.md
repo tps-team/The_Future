@@ -1,6 +1,8 @@
 # The_Future
 This modpack created of CockieHunterRRR
 
+Это техномагический модпак <br>
+для теста возможностей 1.10.2 на сервере
 #ModList
 
 <ul>
