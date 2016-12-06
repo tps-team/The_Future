@@ -1,5 +1,5 @@
 # The_Future
-This modpack created of CockieHunterRRR
+This modpack created of CookieHunterR
 
 Это техномагический модпак <br>
 для теста возможностей 1.10.2 на сервере
